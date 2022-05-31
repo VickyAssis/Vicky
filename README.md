@@ -1,6 +1,6 @@
 - 👋 Oiie! Eu sou a Vick
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando Javascript
+- 💻 Trabalho com Front-End
+-  📖 Estudando Javascript
 
 
 ![VickyAssis GitHub stats](https://github-readme-stats.vercel.app/api?username=VickyAssis&show_icons=true&theme=radical)
